@@ -1,0 +1,3 @@
+C:/Users/Martin Lin/Desktop/CSI3131/ASS/A1/cmake-build-debug/CMakeFiles/A1.dir
+C:/Users/Martin Lin/Desktop/CSI3131/ASS/A1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Martin Lin/Desktop/CSI3131/ASS/A1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
