@@ -1,0 +1,10 @@
+A2 filter=lfs diff=lfs merge=lfs -text
+A3 filter=lfs diff=lfs merge=lfs -text
+b2.exe filter=lfs diff=lfs merge=lfs -text
+A1 filter=lfs diff=lfs merge=lfs -text
+A4 filter=lfs diff=lfs merge=lfs -text
+C[[:space:]]Language[[:space:]]method.txt filter=lfs diff=lfs merge=lfs -text
+C_code.docx filter=lfs diff=lfs merge=lfs -text
+C_code.txt filter=lfs diff=lfs merge=lfs -text
+Linux.txt filter=lfs diff=lfs merge=lfs -text
+b2.c filter=lfs diff=lfs merge=lfs -text
